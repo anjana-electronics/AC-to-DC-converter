@@ -33,7 +33,7 @@ A capacitor smooths the pulsating DC by reducing ripple voltage.
 4.Regulation
 The voltage regulator provides a constant DC output.
 ##PCB Layout
-![PCB Layout](pcb_layout.png)
+![PCB Layout](pcb.layout.png.png)
 
 ##3D View
-![3D View](pcb_3d_view.png)
+![3D View](pcb 3d view.png.png)
