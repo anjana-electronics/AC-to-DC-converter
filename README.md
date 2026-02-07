@@ -36,4 +36,4 @@ The voltage regulator provides a constant DC output.
 ![PCB Layout](pcb.layout.png.png)
 
 ##3D View
-![3D View](3d view.png.png)
+![3D View](3dview.png.png)
